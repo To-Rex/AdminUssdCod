@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "206100753556",
+    "firebase_url": "https://ussd-uzbekistan-44e3c-default-rtdb.firebaseio.com",
+    "project_id": "ussd-uzbekistan-44e3c",
+    "storage_bucket": "ussd-uzbekistan-44e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206100753556:android:bb5947dc4cfee7efd5d881",
+        "android_client_info": {
+          "package_name": "app.ozim.ussdcodeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206100753556-baq7t1upgopmnb31bgtt2es822ie5trk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O3xskD5ZEFwrp2G4poWMj4RvxDlJ57A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206100753556-baq7t1upgopmnb31bgtt2es822ie5trk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206100753556:android:90c518636fc0ebe5d5d881",
+        "android_client_info": {
+          "package_name": "app.test.adminussdcod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206100753556-baq7t1upgopmnb31bgtt2es822ie5trk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O3xskD5ZEFwrp2G4poWMj4RvxDlJ57A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206100753556-baq7t1upgopmnb31bgtt2es822ie5trk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206100753556:android:91655eee2be23530d5d881",
+        "android_client_info": {
+          "package_name": "com.ussd.ussdcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206100753556-baq7t1upgopmnb31bgtt2es822ie5trk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O3xskD5ZEFwrp2G4poWMj4RvxDlJ57A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206100753556-baq7t1upgopmnb31bgtt2es822ie5trk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
