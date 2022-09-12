@@ -1,5 +1,6 @@
 package app.test.adminussdcod
 
+import android.app.Dialog
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.ListView
@@ -59,6 +60,17 @@ class InternetToplamlar : AppCompatActivity() {
             override fun onCancelled(error: DatabaseError) {}
         })
 
+        listdata?.setOnItemClickListener { parent, view, position, id ->
+            val item = parent.getItemAtPosition(position) as String
+            Toast.makeText(this, "You clicked $item", Toast.LENGTH_LONG).show()
+            //custom dialog
+            val dialog = Dialog(this)
+            dialog.setContentView(R.layout.custom_update)
+            dialog.setTitle("Internet To`plamlar")
+
+            dialog.show()
+
+        }
 
         /*btninsaqlash.setOnClickListener {
             val inmb = ediinmb.text.toString()
